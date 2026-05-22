@@ -1,6 +1,7 @@
-# RollABoll
+# Roll A Ball Unity Game
 
 This is a Unity Roll-a-Ball project made for CS 6457 Milestone 0. It starts from the classic Roll-a-Ball tutorial and adds visible gameplay and level changes.
+<img width="1725" height="1116" alt="image" src="https://github.com/user-attachments/assets/83f5e759-7143-44ac-b4ef-5c82beae6db2" />
 
 ## Unity Version
 
@@ -51,3 +52,6 @@ Key files:
 ## Notes
 
 This repository is intended as a public source-code/project copy. Unity generated folders such as `Library`, `Logs`, `Temp`, `Obj`, and local build output are intentionally excluded.
+
+![Uploading image.png…]()
+
