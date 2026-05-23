@@ -53,5 +53,5 @@ Key files:
 
 This repository is intended as a public source-code/project copy. Unity generated folders such as `Library`, `Logs`, `Temp`, `Obj`, and local build output are intentionally excluded.
 
-![Uploading image.png…]()
+
 
